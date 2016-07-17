@@ -1,0 +1,1 @@
+# jackson-artifactory-consul-demo-client
